@@ -12,8 +12,8 @@ extension:
 
 repo:
   github: alitrack/duckdb_mqtt
-  ref: 244c376534cdc1d10e6eb56aba705613723f8c27
-  ref_next: 244c376534cdc1d10e6eb56aba705613723f8c27
+  ref: 57d535505979d8e93a17a878ba7e571659797186
+  ref_next: 57d535505979d8e93a17a878ba7e571659797186
 
 docs:
   hello_world: |
